@@ -19,7 +19,7 @@ database, FlyWay, Maven, Discovery Eureka
 - https://gitlab.com/lexp00/supermarket/-/tree/master
 
 
-## For House Club:
+## For House Club
 
 Тендерная биржа, web-приложение
 Данный проект разработал в команде из четырех человек в рамках дипломного проекта.
@@ -53,7 +53,7 @@ database, Flyway, Maven
 
 ### Стэк:
 Spring boot, Spring Data, Spring Security, REST API, Hibernate, PostgreSQL, Lombok, Maven, Html,
-AngularJs
+AngularJs, JUnit, Mockito
 
 ### Ссылки:
 - https://github.com/Lexatol/Market
