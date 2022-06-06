@@ -53,7 +53,7 @@ database, Flyway, Maven
 
 ### Стэк:
 Spring boot, Spring Data, Spring Security, REST API, Hibernate, PostgreSQL, Lombok, Maven, Html,
-AngularJs, JUnit, Mockito
+AngularJs, JUnit, Mockito, Docker
 
 ### Ссылки:
 - https://github.com/Lexatol/Market
