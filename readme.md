@@ -20,10 +20,10 @@ backendэ’а, принял на себя обязанности project manage
 
 ### Стэк:
 Java 11, Angular Js, Spring boot, Spring security, REST API, Hibernate, Lombok, Swagger, PostgreSQL, H2
-database, Flyway, Maven, Docker
+database, Flyway, Maven, Docker,
 
 ### Ссылки:
-- https://github.com/Lexatol/ForHouseClub
+- https://gitlab.com/lexp00/ForHouseClub
 - https://www.youtube.com/watch?v=q1Vi0Xn7cCo&t=14s
 ### Deploy:
 - http://37.228.116.126:8189/swagger-ui/
