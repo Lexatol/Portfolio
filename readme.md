@@ -4,6 +4,30 @@ Portfolio :
 - https://gitlab.com/lexp00
 - https://github.com/Lexatol
 
+## For House Club
+
+Тендерная биржа, web-приложение
+Данный проект разработал в команде из четырех человек в рамках дипломного проекта.
+Реализовали предложенную мной идею, и в этом проекте к моим основным обязанностям по разработке
+backendэ’а, принял на себя обязанности project manager
+
+### Особенности:
+- Сервис регистрации и авторизации пользователей на JWT token, создание личных кабинетов компаний
+- Составление сметного расчета на строительный объект и сохранение его в базу, сметный расчет
+  закрепляется за компанией
+- объявление тендера на основании подготовленного сметного расчета
+- участие в тендере и объявление победителей
+
+### Стэк:
+Java 11, Angular Js, Spring boot, Spring security, REST API, Hibernate, Lombok, Swagger, PostgreSQL, H2
+database, Flyway, Maven, Docker
+
+### Ссылки:
+- https://github.com/Lexatol/ForHouseClub
+- https://www.youtube.com/watch?v=q1Vi0Xn7cCo&t=14s
+### Deploy:
+- http://37.228.116.126:8189/swagger-ui/
+
 ## Интернет магазин (Spring cloud):
 
 ### Особенности:
@@ -16,30 +40,7 @@ Java 11, Spring boot, Spring Cloud, Spring data, Spring security, Rest Api, Hibe
 database, FlyWay, Maven, Discovery Eureka
 
 ### Ссылка:
-- https://gitlab.com/lexp00/supermarket/-/tree/master
-
-
-## For House Club
-
-Тендерная биржа, web-приложение
-Данный проект разработал в команде из четырех человек в рамках дипломного проекта.
-Реализовали предложенную мной идею, и в этом проекте к моим основным обязанностям по разработке
-backendэ’а, принял на себя обязанности project manager
-
-### Особенности:
-- Сервис регистрации и авторизации пользователей на JWT token, создание личных кабинетов компаний
-- Составление сметного расчета на строительный объект и сохранение его в базу, сметный расчет
-закрепляется за компанией
-- объявление тендера на основании подготовленного сметного расчета
-- участие в тендере и объявление победителей
-
-### Стэк:
-Java 11, Angular Js, Spring boot, Spring security, REST API, Hibernate, Lombok, Swagger, PostgreSQL, H2
-database, Flyway, Maven
-
-### Ссылки:
-- https://github.com/Lexatol/ForHouseClub
-- https://www.youtube.com/watch?v=q1Vi0Xn7cCo&t=14s
+- https://gitlab.com/lexp00/supermarket
 
 
 ## Интернет магазин (монолит):
