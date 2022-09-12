@@ -58,6 +58,12 @@
     Ссылка:
     - https://gitlab.com/lexp00/supermarket
 
+## Telegram Bot
+    Особенности:
+        - Разработка телеграм Бота
+    Стэк: Java 11, Spring Boot, Lombok, Maven, PostgreSQL
+    Ссылка: https://github.com/Lexatol/TelegramBot
+
 
 ## Интернет магазин (монолит):
 
