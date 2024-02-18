@@ -20,15 +20,6 @@
     Java 11, Angular Js, Spring boot, Spring security, REST API, Hibernate, Lombok, Swagger, PostgreSQL, H2
     database, Flyway, Maven, Docker
     
-    Ссылки:
-    - https://gitlab.com/lexp00/ForHouseClub/-/tree/dev
-    - https://www.youtube.com/watch?v=q1Vi0Xn7cCo&t=14s
-    
-    Deploy:
-    - http://forhouse.club/fhc
-
-    Документация проекта:
-    - http://37.228.116.126:8189/swagger-ui/index.html 
 
 ## Тестовое задание от компании Inside
     Особенности:
@@ -102,3 +93,18 @@
 
     Ссылки:
     - https://github.com/Lexatol/StarGame
+
+## Cloud Storage - клиент серверное приложение:
+    Особенности:
+        Разработка клиент серверного приложения 
+        для сохрания файлов на сервере с локальной машины
+    Стэк:
+        - Java 11, Netty, Swing, Maven
+
+    Архитектура:
+       Приложение построено из модулей
+        - Модуль клиента
+        - Модуль сервера
+        - модуль отвечающий за работу по сети клиента и сервера
+    Ссылки:
+        - https://github.com/Lexatol/cloud-storage
