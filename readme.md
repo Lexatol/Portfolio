@@ -1,7 +1,7 @@
 # Portfolio of Alexey Prikhodko
 
-    Portfolio : 
-    - https://github.com/Lexatol
+Portfolio : 
+https://github.com/Lexatol
 
 
 ## Tender platform - тендерная платоформа
@@ -24,7 +24,7 @@
             - Микросервис - чат
             - Конфиг-сервер
     Ссылка:
-        https://github.com/Lexatol/TenderPlatforms
+https://github.com/Lexatol/TenderPlatforms
 
 ## Cloud Storage - клиент серверное приложение:
     Описание:
@@ -38,8 +38,7 @@
         - Модуль сервера
         - модуль отвечающий за работу по сети клиента и сервера
     Ссылки:
-        https://github.com/Lexatol/cloud-storage
-
+https://github.com/Lexatol/cloud-storage
 
 
 # Messenger - клиент серверное приложение
@@ -67,6 +66,9 @@
     - Общий чат для всех пользователей
     - Отображение всех авторизованных пользователей
 
+    Ссылка:
+https://github.com/Lexatol/Messenger
+
 ## Интернет магазин (Spring cloud):
 
     Описание:
@@ -79,7 +81,7 @@
     database, FlyWay, Maven, Discovery Eureka
     
     Ссылка:
-       https://gitlab.com/lexp00/supermarket
+https://gitlab.com/lexp00/supermarket
 
 ## Telegram Bot
     Описание:
@@ -87,7 +89,8 @@
 
     Стэк: Java 11, Spring Boot, Lombok, Maven, PostgreSQL
     
-    Ссылка: https://github.com/Lexatol/TelegramBot
+    Ссылка: 
+https://github.com/Lexatol/TelegramBot
 
 
 ## Интернет магазин (монолит):
@@ -104,7 +107,7 @@
     AngularJs, JUnit, Mockito, Docker
     
     Ссылки:
-       https://github.com/Lexatol/Market
+https://github.com/Lexatol/Market
 
 
 
@@ -117,7 +120,7 @@
         - Приложение упаковано в docker сontainer и разворачивается с помощью docker-compose.
         - Файлы docker и docker-compose приложены к проекту
     Ссылка:
-        https://github.com/Lexatol/testinside
+https://github.com/Lexatol/testinside
 
 
 
@@ -132,5 +135,5 @@
     Стэк: LibGDX, Gradle
 
     Ссылки:
-       https://github.com/Lexatol/StarGame
+https://github.com/Lexatol/StarGame
 
