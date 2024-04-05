@@ -73,13 +73,19 @@ https://github.com/Lexatol/Messenger
 https://github.com/Lexatol/supermarket
 
     Описание:
-        Прототип интернет магазина реализовал на микросервисной архитектуре.
-        Микросервисы: мс регистрация пользователей, мс заказы (создается корзина и в
-        последующем сохраняется в заказ), мс продукты. Каждый микросервис реализовал на своей базе.
+        Интернет магазин
+
+    Архитектура:
+        Проект разработан на микросервисной архитектуре и состоит из следующих сервисов:
+        - микросервис - авторизация и пользователи
+        - Микросервис - продукты
+        - Микросервис - заказы
+        - Микросервис - фронтэнд
+        Каждый микросервис работает со своей базой
 
     Стэк:
-    Java 11, Spring boot, Spring Cloud, Spring data, Spring security, Rest Api, Hibernate, Lombor, PostgreSQL, H2
-    database, FlyWay, Maven, Discovery Eureka
+        Java 11, Spring boot, Spring Cloud, Spring data, Spring security, Rest Api, Hibernate, Lombor, PostgreSQL, H2
+        database, FlyWay, Maven, Discovery Eureka
 
 ## Telegram Bot
 https://github.com/Lexatol/TelegramBot
