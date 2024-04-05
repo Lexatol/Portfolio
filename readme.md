@@ -5,6 +5,8 @@ https://github.com/Lexatol
 
 
 ## Tender platform - тендерная платоформа
+https://github.com/Lexatol/TenderPlatforms
+
     Описание:
         В данном проекте разработан функционал 
             - Регистрация пользователя
@@ -23,10 +25,10 @@ https://github.com/Lexatol
             - Микросервис - телеграм бот
             - Микросервис - чат
             - Конфиг-сервер
-    Ссылка:
-https://github.com/Lexatol/TenderPlatforms
 
 ## Cloud Storage - клиент серверное приложение:
+https://github.com/Lexatol/cloud-storage
+
     Описание:
         Разработка клиент серверного приложения 
         для сохрания файлов на сервере с локальной машины
@@ -37,15 +39,23 @@ https://github.com/Lexatol/TenderPlatforms
         - Модуль клиента
         - Модуль сервера
         - модуль отвечающий за работу по сети клиента и сервера
-    Ссылки:
-https://github.com/Lexatol/cloud-storage
 
 
 # Messenger - клиент серверное приложение
+https://github.com/Lexatol/Messenger
+
     Описание:
         Чат серверное приложение 
         Разработка выполнена с использованием ServerSocket и Socket.
         Каждый подключаемый клиент оборачивается в отдельный поток
+    
+    Функционал:
+        - GUI сервера
+        - GUI клиента
+        - Авторизация пользователя
+        - Передача сообщений другому пользователю
+        - Общий чат для всех пользователей
+        - Отображение всех авторизованных пользователей
 
     Стэк:
     - Java 11, IO, Swing, Maven, SQLite, Socket, ServerSocket, MultiThreading
@@ -57,19 +67,10 @@ https://github.com/Lexatol/cloud-storage
           - Модуль отвечающий за работу по сети клиента и сервера
           - Модуль общий
 
-    Функционал:
 
-    - GUI сервера
-    - GUI клиента
-    - Авторизация пользователя
-    - Передача сообщений другому пользователю
-    - Общий чат для всех пользователей
-    - Отображение всех авторизованных пользователей
-
-    Ссылка:
-https://github.com/Lexatol/Messenger
 
 ## Интернет магазин (Spring cloud):
+https://github.com/Lexatol/supermarket
 
     Описание:
         Прототип интернет магазина реализовал на микросервисной архитектуре.
@@ -79,21 +80,18 @@ https://github.com/Lexatol/Messenger
     Стэк:
     Java 11, Spring boot, Spring Cloud, Spring data, Spring security, Rest Api, Hibernate, Lombor, PostgreSQL, H2
     database, FlyWay, Maven, Discovery Eureka
-    
-    Ссылка:
-https://gitlab.com/lexp00/supermarket
 
 ## Telegram Bot
+https://github.com/Lexatol/TelegramBot
+
     Описание:
         - Разработка телеграм Бота
 
     Стэк: Java 11, Spring Boot, Lombok, Maven, PostgreSQL
-    
-    Ссылка: 
-https://github.com/Lexatol/TelegramBot
 
 
 ## Интернет магазин (монолит):
+https://github.com/Lexatol/Market
 
     Описание:
     - Аутентификация и авторизация пользователей на JWT
@@ -105,13 +103,11 @@ https://github.com/Lexatol/TelegramBot
     Стэк:
     Spring boot, Spring Data, Spring Security, REST API, Hibernate, PostgreSQL, Lombok, Maven, Html,
     AngularJs, JUnit, Mockito, Docker
-    
-    Ссылки:
-https://github.com/Lexatol/Market
-
 
 
 ## Тестовое задание от компании Inside
+https://github.com/Lexatol/testinside
+
     Описание:
         Разработать сервис, который сохраняет в базу данных сообщения от авторизированных пользвателей. По конкретному запросу возвращает последние 10 сохраненных сообщений. Для авторизации использовать jwt token. Составить описание проекта, протестировать, упаковать в docker контейнер, выложить в docker hub и github, подготовить curl запросы
     Стэк:
@@ -119,21 +115,15 @@ https://github.com/Lexatol/Market
         - Тестирование: Junit 5, Mockito
         - Приложение упаковано в docker сontainer и разворачивается с помощью docker-compose.
         - Файлы docker и docker-compose приложены к проекту
-    Ссылка:
-https://github.com/Lexatol/testinside
-
-
 
 
 ## ИГРА для desktop:
-   
-    
+https://github.com/Lexatol/StarGame
+
     Описание:
         Игра разработана на java с применением LibGDX
         Реализация игры на java для desktop версии с возможностью расширения на android
     
     Стэк: LibGDX, Gradle
 
-    Ссылки:
-https://github.com/Lexatol/StarGame
 
